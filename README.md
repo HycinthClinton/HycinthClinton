@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/clinton66249" target="blank"><img src="https://img.shields.io/twitter/follow/clinton66249?logo=twitter&style=for-the-badge" alt="clinton66249" /></a> </p>
 
-- 🌱 I’m currently learning **Python, ruby, and RabbitMQ**
+- 🌱 I’m currently learning **Python Django**
 
 - 👯 I’m looking to collaborate on **full-stack web development projects, particularly those requiring strong backend architecture or integration with third-party APIs**
 
 - 🤝 I’m looking for help with **getting started with open-source contributions in the backend development space.**
 
-- 💬 Ask me about **PHP, Laravel and MySQL**
+- 💬 Ask me about **Laravel(PHP), and Django(Python)**
 
-- 📫 How to reach me **hycinthclinton995@gmail.com**
+- 📫 How to reach me **clintonudochukwu995@gmail.com**
 
 - ⚡ Fun fact **I create YouTube videos**
 
