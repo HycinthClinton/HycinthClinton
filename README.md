@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Clinton Hycinth
 
-I'm an aspiring **Cybersecurity Analyst** and **IT Support Specialist**, currently building hands-on skills through the **Google Cybersecurity Professional Certificate**. I’m passionate about helping organizations stay secure, troubleshoot technical issues, and implement best practices in security and support.
+Google Cybersecurity Learner | IT Support Specialist | Building Skills in InfoSec, Threat Analysis & Risk Management | SOC Analyst in Training | Future Security+ | CISSP | Learning in Public through platforms like linkedin. I’m passionate about helping organizations stay secure, troubleshooting technical issues, and implement best practices in security and support.
 
 ---
 
